@@ -49,10 +49,10 @@ empresa01
 999
 
 DIGITE O SITE PARA O FRONTEND
-https://QUALQUER-NOME.SEUDOMINIO.com.br
+https://app.linechat.com.br
 
 DIGITE O SITE PARA O BACKEND
-https://QUALQUER-NOME.SEUDOMINIO.com.br
+https://api-app.linechat.com.br
 
 3001
 
