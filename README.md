@@ -27,13 +27,13 @@ Y
 
 cd /home
 
-apt install git && git clone https://github.com/siteconnect/Multizap382react.git
+apt install git && git clone https://github.com/rpgomes13/MultizapFlow382-main.git
 
 User do Github: rpgomes13
 
 Token do Github: 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
 
-cd /home/Multizap382react
+cd /home/MultizapFlow382-main
 
 chmod +x instalar_primaria instalar_nova_instancia && ./instalar_primaria
 
