@@ -31,7 +31,7 @@ apt install git && git clone https://github.com/rpgomes13/MultizapFlow382-main.g
 
 User do Github: rpgomes13
 
-Token do Github: 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
+Token do Github: **********
 
 cd /home/MultizapFlow382-main
 
