@@ -80,3 +80,47 @@ cd /home/deploy/empresa01/frontend && npm i --f && npm run build
 
 
 ###############################################################################################
+
+PERSONALIZACAO
+
+TROCAR NOME APP MÓVEL
+
+frontend/public/manifest.json
+
+Troque pelo nome da sua empresa
+
+linhas: 2 e 3
+
+------------------------------------------
+
+LOGO DA TELA DE LOGIN 
+
+frontend/public
+logo.png
+
+------------------------------------------
+
+PERSONALIZAÇÃO INTERNA
+----------------------
+frontend\src\pages\Login/index
+
+TROCAR CAPA DO SISTEMA
+
+Linha: 24 (link do arquivo)
+
+TROCAR WHATSAPP TELA INICIAL
+
+Linha:295
+
+TROCAR ÍCONE DO WHATSAPP
+
+Linha: 298
+
+
+
+Comando no TERMINAL
+
+cd /home/deploy/empresa01/frontend && npm i --f && npm run build
+
+----------------------------------------
+PRONTO FINALIZADO!
